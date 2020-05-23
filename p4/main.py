@@ -17,7 +17,7 @@ class App(QtWidgets.QMainWindow):
 
 
     def open_file(self):
-        filename = QFileDialog.getOpenFileName(None,"open file",'/home/adel/DSP-FinalProject',"signals(*.mp3 *.wav)")
+        filename = QFileDialog.getOpenFileName(None,"open file",'./p4',"signals(*.mp3 *.wav)")
         path = filename[0]
         # pathList= path.split('/')
         print(path)

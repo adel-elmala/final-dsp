@@ -130,7 +130,7 @@ class cocktail():
         # get the estimated mixing matrix
         A_ = ica.mixing_
         # assert np.allclose(X, np.dot(S_, A_.T) + ica.mean_)
-        # S_ = S_ * 10
+        S_ = S_ * 10
         folderName = self.getsongName()
         os.system("mkdir {}".format(folderName))
         os.system("echo made new directory")
