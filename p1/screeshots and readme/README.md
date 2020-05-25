@@ -1,3 +1,12 @@
+# Problem 1 (a)
+Using Days 
+![](https://raw.githubusercontent.com/adel-elmala/final-dsp/master/p1/screeshots%20and%20readme/solved-a1.PNG?token=AKO3RT56LKQ2BZYYJDF4YKS62TYNQ)
+![](https://raw.githubusercontent.com/adel-elmala/final-dsp/master/p1/screeshots%20and%20readme/solved-a2.PNG?token=AKO3RTYCISQZCHPAOXFICZC62TYPU)
+ 
+
+Using Months
+![](https://raw.githubusercontent.com/adel-elmala/final-dsp/master/p1/screeshots%20and%20readme/result%20D%20(month%204)%20.PNG?token=AKO3RT3VVKEMPPK25HX6GYK62TYSY)
+
 # Problem 2 Review (c,d)
 
 <u>for c :</u>
