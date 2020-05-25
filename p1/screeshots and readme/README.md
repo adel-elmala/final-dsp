@@ -9,6 +9,12 @@ Using Months
 
 # Problem 2 Review (c,d)
 
+![](https://raw.githubusercontent.com/adel-elmala/final-dsp/master/p1/screeshots%20and%20readme/result%20c%20(month%201)%20.PNG?token=AKO3RT5ZRJ4HWGIWVEPQSG262T4SU)
+![](https://raw.githubusercontent.com/adel-elmala/final-dsp/master/p1/screeshots%20and%20readme/result%20c%20(month%202)%20.PNG?token=AKO3RT5KSDMXWCAX3XNFB4S62T4TC)
+![](https://raw.githubusercontent.com/adel-elmala/final-dsp/master/p1/screeshots%20and%20readme/result%20c%20(month%203)%20.PNG?token=AKO3RT6K2QH7WJS3LUEMZ4C62T4TM)
+![](https://raw.githubusercontent.com/adel-elmala/final-dsp/master/p1/screeshots%20and%20readme/result%20c%20(month%204)%20.PNG?token=AKO3RTY5R2L44YOUAOO3VL262T4XI)
+![](https://raw.githubusercontent.com/adel-elmala/final-dsp/master/p1/screeshots%20and%20readme/result%20c%20(month%205)%20.PNG?token=AKO3RTZY4M5M3ROQBUGSGOS62T4YS)
+
 <u>for c :</u>
 
 * *The result shows the number of cases for the 15 countries which has the most number cases Within 5 months*
