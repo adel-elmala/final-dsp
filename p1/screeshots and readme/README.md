@@ -12,16 +12,19 @@ Using Months
 ![](Months3-A.png)
 ![](Months5-A.png)
 
-# Problem 2 Review (c,d)
+# Problem 1 (b)
+![](Map1-B.png)
+
+# Problem 1 (c)
 
 
-<u>for c :</u>
+The result shows the number of cases for the 15 countries which has the most number cases Within 5 months 
+![](Months1-C.png)
+![](Months2-C.png)
+![](Months3-C.png)
+![](Months4-C.png)
+![](Months5-C.png)
 
-* *The result shows the number of cases for the 15 countries which has the most number cases Within 5 months*
- ![](result c (month 1) .PNG)
- ![](result c (month 2) .PNG)
- ![](result c (month 3) .PNG)
- ![](result c (month 4) .PNG)
- ![](result c (month 5) .PNG)
-* * <u>for D :</u>
+# Problem 1 (d)
+
  
