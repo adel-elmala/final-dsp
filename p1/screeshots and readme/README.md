@@ -1,19 +1,30 @@
-# Problem 2 Review (c,d)
+# Problem 1 (a)
+Using Days 
+![](day1-A.png)
+![](day10-A.png)
+![](day20-A.png)
+![](day31-A.png)
+ 
+ 
 
-<u>for c :</u>
+Using Months
+![](Months1-A.png)
+![](Months3-A.png)
+![](Months5-A.png)
 
-* *The result shows the number of cases for the 15 countries which has the most number cases Within 5 months*
-* ![](result-c-(month-1).PNG)
-* ![](result-c-(month-2).PNG)
-* ![](result-c-(month-3).PNG)
-* ![](result-c-(month-4).PNG)
-* ![](result-c-(month-5).PNG)
-* * <u>for D :</u>
-  * *Animated bubble graph to number of cases on x-axis and number of deaths on the y-axis  and bubble size is the population in-country and bubble color is continent color*
-  * ![](result-D-(month-1)-.PNG)
-  * ![](result-D-(month-2)-.PNG)
-  * ![](result-D-(month-3)-.PNG)
-  * ![](result-D-(month-4)-.PNG)
+# Problem 1 (b)
+![](Map1-B.png)
 
-![](result-D-(month-5).PNG)
+# Problem 1 (c)
 
+
+The result shows the number of cases for the 15 countries which has the most number cases Within 5 months 
+![](Months1-C.png)
+![](Months2-C.png)
+![](Months3-C.png)
+![](Months4-C.png)
+![](Months5-C.png)
+
+# Problem 1 (d)
+
+ 
