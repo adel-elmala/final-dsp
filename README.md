@@ -1,7 +1,7 @@
 # Final DSP Project
 # Group number: 
 ## Team members:
-- **Name**: Adel refat ali | **Sec**: 2 | **B.N**: 3 
-- **Name**: Youssef Sameh Mohamed| **Sec**: 2 | **B.N**: 45
-- **Name**:| **Sec**: | **B.N**:
+- **Name**: Adel Refat Ali | **Sec**: 2 | **B.N**: 3 
+- **Name**: Youssef Sameh Mohamed | **Sec**: 2 | **B.N**: 45
+- **Name**: Sondos Mohamed | **Sec**: 1 | **B.N**: 42
 - **Name**:| **Sec**: | **B.N**:
