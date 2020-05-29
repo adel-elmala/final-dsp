@@ -19,7 +19,7 @@ class App(QtWidgets.QMainWindow):
         
 
     def open_file(self):
-        filename = QFileDialog.getOpenFileName(None,"open file",'/home/adel/DSP-FinalProject/p2',"signals(**.jpeg)")
+        filename = QFileDialog.getOpenFileName(None,"open file",'./p2',"signals(**.jpeg)")
         path = filename[0]
         # pathList= path.split('/')
         print(path)
