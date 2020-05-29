@@ -9,7 +9,8 @@ import plotly.graph_objects as go
 
 import pandas as pd
 
-url = "file:///C:/Users/20106/Downloads/data-drecov.csv"
+# url = "file:///C:/Users/20106/Downloads/data-drecov.csv"
+url = "data-drecov.csv"
 dataset = pd.read_csv(url)
 
 months = [ "1", "2", "3", "4", "5"]

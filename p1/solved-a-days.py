@@ -12,7 +12,9 @@ import pandas as pd
 
 import plotly.express as px
 #df = px.data.gapminder()
-data = pd.read_csv(r"file:///C:/Users/20106/Downloads/data-drecov.csv")
+# data = pd.read_csv(r"file:///C:/Users/20106/Downloads/data-drecov.csv")
+data = pd.read_csv(r"data-drecov.csv")
+
 px.scatter(data, x="cases", y="deaths", animation_frame="year", animation_group="countriesAndTerritories",
            size="deaths" , hover_name="countriesAndTerritories",
            log_x=True, size_max=55, range_x=[100,25000], range_y=[1,2000])

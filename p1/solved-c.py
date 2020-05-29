@@ -4,8 +4,9 @@ import numpy as np
 import plotly.io as pio
 
 pio.templates.default = "simple_white"
-data = pd.read_csv(r"file:///C:/Users/Poline/Desktop/dsp p1/data c.csv")
-
+# data = pd.read_csv(r"file:///C:/Users/Poline/Desktop/dsp p1/data c.csv")
+data = pd.read_csv(r"data c.csv")
+ 
 
 def make_bar_chart(dataset, categrical_col, start_Month, end_Month, title , frame_rate = 3):
     names = dataset[categrical_col]

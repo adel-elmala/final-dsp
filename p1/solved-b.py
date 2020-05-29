@@ -1,8 +1,9 @@
 import plotly.graph_objects as go
 import pandas as pd
 
-df = pd.read_csv(r"file:///C:/Users/20106/Downloads/data-drecov.csv")
+# df = pd.read_csv(r"file:///C:/Users/20106/Downloads/data-drecov.csv")
 
+df = pd.read_csv(r"data-drecov.csv")
 
 fig = go.Figure(data=go.Choropleth(
     locations = df['countryterritoryCode'],
